@@ -1,14 +1,3 @@
-//
-
-/*
-dsffdf
-dfdfsadasd
-sdsadasd
-
-
-dfdfdsf
-*/
-
 var nome, idade
 nome = prompt("Digite seu nome: ")
 idade = prompt("Digite sua idade: ")
